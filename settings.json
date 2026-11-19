@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "FireBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "slobtest1.aternos.me",
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,7 +73,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1572943285776023682/ZhT4jA7whk5yqixIwIWnJJ2yK5NF4zcfOhRHury8z1vBeQ9syBZUHgK-V1TGd4_Urhgi",
     "events": {
       "connect": true,
       "disconnect": true,
